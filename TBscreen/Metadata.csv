@@ -1,0 +1,150 @@
+,subject,cohort,sub,Label,age,gndr_a,lab_sptm_xprt_rslt_a,lab_sptm_xpert_ct_a,lab_sptm_cx_rslt_a,lab_sptm_cx_ttd_a,lab_sptm_smr_rslt_a,cxr_findings_a___5,hiv_infected_a,smkr_a,class,single_device_cough_count,all_device_cough_count,fever,un_wght_loss,nght_swts,inhaler,extrapulmo_tb,cough,cough_drtn,cough_bld,comor_other,comor_lung,prev_tb,comor,cough_cause_other,transfer_from_A,cough_cause,cough_trt,Primary findings,Cavities - Y/N; if Y number of lobes,Number_of_quadrants_with_consolidation,Abnormal_quadrants_number_denominator_4,Permission_sound
+0,PID_108A,A,108,TB,25,1,3,22.4,1,5,3,1,0,0,1,43,125,1,1,1,0,0,1,8,1,None,,0,6,,,,,"LLL limited consolidation, RLL linear opacity, cavity",YES - 1,1,2,Yes
+1,PID_10A,A,10,TB,39,0,2,29.8,1,16,0,1,1,0,1,170,510,1,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL (lobar consolidation), RLL (limited consolidation), Cavitary disease",YES - 1,2,2,Yes
+2,PID_10C,C,10,NTB,35,0,,,,,,,0,0,0,100,296,1,1,1,,,1,12,0,,,0,0,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+3,PID_4A,A,110,NTB,37,0,,,2,,0,0,1,0,0,506,1508,1,1,1,0,0,1,6,1,None,,0,6,,,,,RUL/LUL/RLL/LLL infiltrates,NO,0,4,No
+4,PID_113A,A,113,TB,25,1,3,24.2,1,3,4,1,0,0,1,78,226,0,1,0,0,0,1,6,1,None,,0,6,,,,,"RUL limited consolidatin, cavity",YES - 1,1,1,No
+5,PID_117A_now_C,A,117,NTB,45,0,,,0,,0,0,0,1,0,347,965,1,1,1,0,0,1,6,0,None,,0,6,,,,,"RUL infiltrate, right pleural effusion (moderate)",NO,0,1,Yes
+6,PID_11C,C,11,NTB,43,1,,,,,,,0,0,0,14,42,0,0,0,,,1,1,0,,,0,0,,1,1,2,Hilar enlargement,,Normal lung fields,,Yes
+7,PID_12A,A,12,TB,41,0,4,21.8,1,3,3,1,0,0,1,85,250,0,1,0,0,0,1,4,1,None,,0,6,,,,,"RUL (infiltrates), LUL (infiltrates), Cavitary disease",YES - 1,0,2,Yes
+8,PID_133A,A,133,TB,43,1,4,30.2,1,3,4,1,0,0,1,37,111,1,1,1,0,0,0,,0,None,,0,6,,,,,"LUL/LLL lobar consolidation, RUL/RLL infiltrates, R pleural effusion (small), cavities",YES - 2,2,4,Yes
+9,PID_136A,A,136,TB,20,1,4,14.4,1,4,3,1,1,2,1,54,159,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL lobar consolidation, RLL/LLL infiltrate, Cavitary",YES - 1,1,3,No
+10,PID_138A,A,138,TB,42,0,4,13.8,1,6,3,0,1,0,1,215,567,0,1,1,0,0,1,2,0,None,,0,6,,,,,RUL infiltrates,NO,0,1,Yes
+11,PID_13A,A,13,TB,36,0,4,20.4,1,3,3,1,0,0,1,78,234,1,1,1,0,999,1,8,1,Not applicable,,0,6,,,,,"RUL (lobar consolidation), RLL (infiltrates), Cavitary ",YES - 1,1,2,Yes
+12,PID_13C,C,13,NTB,32,0,,,,,,,1,0,0,64,189,1,0,1,,,1,12,0,,,0,0,,1,1,2,Normal lung fields,,Normal lung fields,,Yes
+13,PID_141A,A,141,TB,51,0,4,14.8,1,3,3,0,0,1,1,21,63,1,1,1,0,0,1,8,0,None,,0,6,,,,,RUL lobard consolidation,YES - 1,1,1,Yes
+14,PID_144A,A,144,TB,27,0,4,17.7,1,4,3,0,0,0,1,314,932,1,1,1,0,0,1,32,0,None,,0,6,,,,,LUL infiltrates,YES - 1,0,1,Yes
+15,PID_149A,A,149,TB,40,0,4,19.5,1,6,4,1,0,0,1,23,69,0,1,0,0,0,1,2,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+16,PID_14A,A,14,TB,42,0,5,13.3,1,6,4,1,,0,1,162,486,1,1,1,0,0,1,8,1,None,,0,6,,,,,"RUL (lobar consolidatin), RLL (limited consolication), LUL (limited consolidatin), LLL infiltrates, cavitary",YES - 1,3,4,Yes
+17,PID_150A,A,150,TB,30,0,4,15.6,1,9,4,0,0,0,1,37,111,1,1,1,0,0,1,12,0,None,,0,6,,,,,"LUL/LLL infiltrates, cavity",YES - 1,0,2,Yes
+18,PID_15A,A,15,TB,42,1,4,26.6,1,6,4,1,1,0,1,89,267,1,1,1,0,999,1,5,0,None,,0,6,,,,,"All 4 quadrants with infiltrates, non-cavitary",YES - 2,0,4,Yes
+19,PID_15C,C,15,NTB,56,1,,,,,,,0,2,0,42,122,0,0,0,,,1,3,0,,,0,0,"Participant was screened for Tb, with negative smear test",1,,,Normal lung fields,,Normal lung fields,,Yes
+20,PID_164A_now_C,A,164,NTB,43,0,,,,,,0,,,0,26,26,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+21,PID_16A,A,16,TB,26,0,4,16.8,1,3,4,0,0,0,1,62,186,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL (limited consolidation), LUL (limited consolidation), cavitary",YES - 2,2,2,Yes
+22,PID_171A_now_C,A,171,NTB,39,0,,,,,,0,0,0,0,6,18,1,1,1,,0,1,8,0,,,0,,,,,,MISSING,,,,Yes
+23,PID_175A,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,80,160,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+24,PID_177A,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,76,181,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+25,PID_178A,A,178,TB,30,0,3,28.8,1,2,4,1,0,2,1,47,98,1,1,1,0,0,1,8,0,None,,1,6,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+26,PID_17C,C,17,NTB,43,1,,,,,,,1,0,0,33,96,0,0,1,,,1,8,0,,,0,0,,1,9,1,Normal lung fields,,Normal lung fields,,Yes
+27,PID_180A,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,65,128,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+28,PID_181A,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,30,30,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+29,PID_182A,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,360,360,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+30,PID_183A,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,151,362,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+31,PID_184A,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,3,3,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+32,PID_185A,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,73,187,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+33,PID_186A,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,146,293,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+34,PID_187A,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,45,135,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+35,PID_189A,A,189,TB,26,0,5,,1,4,3,0,0,0,1,52,156,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+36,PID_18C,C,18,NTB,49,0,,,,,,,0,0,0,623,1829,1,1,0,,,1,2,1,Hypertension ,,0,6,,1,3,1,Normal lung fields,,Normal lung fields,,Yes
+37,PID_192A,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,72,215,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,No
+38,PID_193A,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,36,98,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+39,PID_195A,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,112,334,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+40,PID_196A,A,196,TB,25,1,2,,1,11,2,0,0,,1,47,140,,,,,,,,,,,0,,,,,,LUL limited consilidation,NO,1,1,Yes
+41,PID_197A,A,197,TB,35,0,2,26.8,1,11,2,1,0,2,1,14,40,1,1,1,0,0,1,8,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL iniltrate, cavities",YES - 2,2,3,Yes
+42,PID_198A,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,258,545,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,No
+43,PID_199A_now_C,A,199,NTB,60,1,,,0,,2,0,1,0,0,64,171,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,No
+44,PID_1A,A,1,TB,25,0,3,26.1,1,12,0,0,0,0,1,12,36,1,1,1,0,0,0,,0,None,,0,6,,,,,"LLL consolidation limited, non cavitary",NO,1,1,Yes
+45,PID_201A,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,6,13,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+46,PID_203A,A,203,TB,62,0,5,27.3,1,4,2,0,0,2,1,325,325,1,1,1,0,0,1,1,1,None ,,1,6,,,,,"RUL limited consolidation, cavitary",YES - 1,1,1,Yes
+47,PID_204A,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,61,175,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+48,PID_205A,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,215,490,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+49,PID_206A,A,206,TB,38,1,1,27,0,,0,0,,1,1,36,58,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+50,PID_207A,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,21,59,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,No
+51,PID_208A,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,76,168,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+52,PID_209A,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,54,162,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+53,PID_20A,A,20,TB,34,0,4,19.1,1,3,3,1,0,1,1,73,219,1,1,1,0,0,1,3,0,None,,2,6,,,,,"LUL infiltrates, cavitary",YES - 1,0,1,Yes
+54,PID_20C,C,20,NTB,43,1,,,,,,,1,0,0,5,14,0,1,1,,,1,20,0,,,0,0,,1,9,1,Normal lung fields,,Normal lung fields,,Yes
+55,PID_211A,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,9,27,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+56,PID_212A,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,135,355,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+57,PID_213A_now_C,A,213,NTB,,,,,,,,0,,,0,69,207,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+58,PID_214A,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,4,4,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+59,PID_216A,A,216,TB,28,0,4,16.6,1,5,4,0,0,1,1,219,637,0,1,0,0,0,1,8,0,None ,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,0,2,Yes
+60,PID_218A,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,48,144,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,No
+61,PID_219A,A,219,TB,40,1,1,26.3,,,,0,0,0,1,216,293,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+62,PID_21A,A,21,TB,24,0,5,14.4,1,6,4,1,0,2,1,18,54,1,1,1,0,0,1,12,1,None,,0,6,,,,,"RUL infiltrates, cavitary",YES - 1,0,1,Yes
+63,PID_21C,C,21,NTB,18,0,,,,,,,0,0,0,138,408,0,1,0,,,1,4,0,,,1,0,,1,1,1,Normal lung fields,,Normal lung fields,,No
+64,PID_220A,A,220,TB,32,1,1,27.9,,,,0,0,0,1,41,106,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+65,PID_222A,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,446,1170,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+66,PID_224A,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,18,54,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+67,PID_225A,A,225,TB,52,1,2,26.7,,,,0,0,0,1,3,9,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+68,PID_226A,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,161,415,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+69,PID_227A,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,42,122,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+70,PID_228A,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,536,1599,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+71,PID_229A,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,83,172,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+72,PID_22A,A,22,TB,30,0,2,27.1,1,13,4,1,0,0,1,113,339,1,0,1,0,0,1,8,0,,,0,1,,,,,"RUL (limited consolidation), cavitary",YES - 1,1,1,No
+73,PID_22C,C,22,NTB,66,1,,,,,,,0,0,0,327,957,1,0,1,,,1,2,0,Hypertensive,,1,6,,1,1,1,Pleural effusion,,Pleural effusion,,Yes
+74,PID_230A,A,230,TB,58,0,1,25.5,,,,0,1,2,1,71,149,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+75,PID_232A,A,232,TB,28,1,1,25.1,,,,0,0,0,1,1,2,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+76,PID_234A,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,7,8,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+77,PID_235A,A,235,TB,35,0,2,21.2,,,,0,0,1,1,5,14,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+78,PID_238A,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,6,6,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+79,PID_23A,A,23,TB,23,1,5,14.9,1,3,4,1,0,0,1,201,603,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL infiltrates, LUL infiltrates, LLL (limited consolidation), cavitary",YES - 2,1,3,Yes
+80,PID_23C,C,23,NTB,40,0,,,,,,,1,0,0,23,67,0,1,0,,,1,2,0,,,0,0,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+81,PID_24A,A,24,TB,26,0,3,24.5,1,9,1,1,0,0,1,55,165,1,1,1,0,0,1,4,1,,,0,999,,,,,"RUL (limited consolidation), cavitary",YES - 1,1,1,Yes
+82,PID_24C,C,24,NTB,30,0,,,,,,,1,0,0,131,379,0,0,0,,,1,2,0,,,1,0,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+83,PID_25A,A,25,TB,37,0,5,12.3,1,4,3,1,0,0,1,8,24,1,0,1,0,0,1,24,1,,,0,,,,,,"LLL infiltrates, cavitary",YES - 1,0,1,Yes
+84,PID_25C,C,25,NTB,30,1,,,,,,,1,0,0,103,296,1,1,1,,,0,,0,,,0,0,,1,1,,Normal lung fields,,Normal lung fields,,No
+85,PID_26C,C,26,NTB,34,0,,,,,,,0,0,0,48,140,1,1,0,,,1,1,0,,,1,0,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+86,PID_27C,C,27,NTB,61,1,,,,,,,0,2,0,26,78,0,1,1,,,1,24,1,,,1,0,Suspected malignancy though participant has swolen adenoid gland,1,,,"Pleural effusion, kyphoscoliosis, right lung volume loss",,,,Yes
+87,PID_28C,C,28,NTB,29,0,,,,,,,1,0,0,71,71,1,0,1,,,1,16,0,,,0,0,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+88,PID_29C,C,29,NTB,26,0,,,,,,,0,0,0,169,334,1,1,0,,,1,2,0,,,0,,Was not informed of the illness,1,,4,Bilateral lower lobe patchy consolidations,,,,Yes
+89,PID_2C,C,2,NTB,50,1,,,,,,,0,0,0,260,704,1,1,0,,,1,4,1,,,0,,,1,1,1,Left mid-lung consoldidation,,Lobar consolidation,,Yes
+90,PID_30C,C,30,NTB,26,0,,,,,,,1,0,0,65,193,1,1,1,,,1,12,0,Hypertension ,,0,6,Not informed of the cough but initiated on TPT as was diagnosed with HIV,1,,,Normal lung fields,,Normal lung fields,,Yes
+91,PID_31C,C,31,NTB,43,0,,,,,,,,0,0,20,42,1,0,0,,,1,1,0,,,0,,Not informed ,1,,,Normal lung fields,,Normal lung fields,,Yes
+92,PID_32A_now_C,A,32,NTB,34,0,0,,0,,0,0,0,0,0,447,1341,1,1,1,0,0,1,4,1,None,,1,6,,,,,"RUL (lobar consolidation), RLL iniltrates, non-cavitary",NO,1,2,Yes
+93,PID_32C,C,32,NTB,34,0,0,,0,,0,0,0,0,0,65,126,1,1,0,,,1,4,0,,,0,,Participant was not told his diagnosois,1,1,,Very small left pl effusion,,Normal lung fields,,Yes
+94,PID_33C,C,33,NTB,27,0,,,,,,,0,0,0,6,6,0,1,0,,,1,3,0,,,0,,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+95,PID_34C,C,34,NTB,43,1,,,,,,,0,0,0,105,243,0,0,0,,,1,6,0,,,0,,,1,1,2,Normal lung fields,,Normal lung fields,,Yes
+96,PID_35A,A,35,TB,35,0,4,17.5,1,6,4,0,0,0,1,21,45,1,1,1,0,0,1,8,1,None,,1,6,,,,,"LUL infiltrates, LLL lobar consolidation, cavitary",YES - 1,1,2,Yes
+97,PID_35C,C,35,NTB,60,0,,,,,,,0,0,0,217,632,1,0,0,,,1,24,1,Known Hpertenson on medication,,0,6,,1,1,,Left pleural effusion,,Pleural effusion,,Yes
+98,PID_3A,A,3,TB,29,0,5,13.7,1,3,4,0,0,1,1,69,207,1,1,1,0,0,1,12,0,None,,0,6,,,,,MISSING,,,,Yes
+99,PID_3C,C,3,NTB,36,1,,,,,,,0,0,0,65,194,1,1,1,,,1,4,1,,,0,,,1,1,1,Normal lung fields,,Normal lung fields,,Yes
+100,PID_40A,A,40,TB,40,0,3,23,1,5,2,0,0,0,1,54,149,1,1,1,0,0,1,8,0,None,,0,6,,,,,Right pleural effusion (large),NO,0,0,Yes
+101,PID_4A,A,4,TB,35,0,4,19.2,1,15,3,1,0,1,1,9,27,1,0,1,0,0,0,,0,None,,0,6,,,,,"RUL, LUL infiltrates, bilateral cavities",YES - 2,0,2,Yes
+102,PID_4C,C,4,NTB,58,1,,,,,,,1,0,0,23,53,0,1,0,,,1,2,0,,,1,0,,1,1,1,RML infiltrate,,,,Yes
+103,PID_51A,A,51,TB,38,0,5,,1,6,3,0,0,2,1,394,1150,0,1,0,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,YES - 1,1,1,Yes
+104,PID_52A,A,52,TB,43,0,3,17.5,1,2,4,1,0,2,1,112,318,0,1,1,0,0,1,8,1,None,,0,6,,,,,"RUL infiltrate, LUL infiltrate, small R pleural effusion, cavitary dz",YES - 1,0,2,Yes
+105,PID_55A,A,55,TB,23,0,5,14.4,1,3,4,1,0,0,1,169,497,0,1,1,0,0,1,20,1,None,,1,6,,,,,"RUL (limited consolidatin), LUL infiltrates, cavties",YES - 2,1,2,Yes
+106,PID_56A,A,56,TB,20,0,5,14.6,1,5,1,1,0,0,1,60,177,1,1,1,0,0,1,6,0,None,,0,6,,,,,"RUL (limited consolidatin), LUL infiltrates, cavties",YES - 1,1,2,Yes
+107,PID_57A,A,57,TB,49,0,4,19.4,1,5,2,1,0,1,1,25,66,0,0,0,0,0,1,1,0,None,,0,6,,,,,"RUL, LUL infiltrates,cavities",YES - 1,0,2,Yes
+108,PID_58A,A,58,TB,49,0,2,,1,5,2,1,0,2,1,49,146,1,1,1,0,0,1,6,0,None,,0,6,,,,,"RUL, LUL infiltrats, cavity",YES - 1,0,2,Yes
+109,PID_59A,A,59,TB,42,0,5,14.6,1,4,2,1,0,2,1,265,793,1,1,1,0,0,1,4,0,None,,0,6,,,,,"LUL (lobar consolidation), LLL (limited consolidation), RUL (limited consolidation), cavity",YES - 1,3,3,No
+110,PID_5C,C,5,NTB,38,0,,,,,,,0,0,0,58,174,0,0,0,,,1,3,0,,,0,,,0,1,1,Right pleural effusion (mod),,Pleural effusion,,Yes
+111,PID_60A,A,60,TB,53,0,5,,1,4,4,1,0,2,1,444,984,1,1,0,0,0,1,8,1,None,,1,6,,,,,"LUL (limited consolidatin), RUL infiltrates, LLL infiltrates, RLL limited consoldiation",YES - 1,2,4,No
+112,PID_61A,A,61,TB,41,0,5,14.4,1,4,4,0,0,0,1,59,177,0,1,0,0,0,1,12,0,None,,0,6,,,,,"LLL infiltrates, no cavity",NO,0,1,Yes
+113,PID_62A,A,62,TB,45,0,4,17.6,1,4,4,1,0,2,1,104,312,1,1,1,0,0,1,20,1,,,0,1,,,,,"LUL lobar consolidation, LLL limited consolidation, RUL infiltrate, Cavity",YES - 1,2,3,Yes
+114,PID_63A,A,63,TB,23,0,,,1,4,3,1,0,0,1,93,279,1,1,1,0,0,1,20,0,None,,0,6,,,,,"LUL lobar consolidation, LLL limited consolidation, RUL limited consolidation, Cavity",YES - 1,3,3,Yes
+115,PID_64A,A,64,TB,19,1,3,24.9,1,11,3,0,1,0,1,64,192,0,0,0,0,0,1,1,0,None,,0,6,,,,,RLL infiltrate,NO,0,1,No
+116,PID_68A,A,68,TB,42,0,4,,1,3,4,1,0,0,1,209,414,1,1,1,0,0,1,8,0,None,,0,6,,,,,"RUL, LLL infiltrates",NO,0,2,Yes
+117,PID_6A,A,6,TB,28,0,4,17.2,1,3,4,0,0,0,1,13,39,1,1,1,0,0,1,8,1,None,,0,6,,,,,"RUL, RLL, LLL consolidations (limited), non-cavitary",NO,3,3,No
+118,PID_6C,C,6,NTB,44,1,,,,,,,0,0,0,189,550,0,1,0,,,1,3,1,Hypertension,,1,6,Hiatal hernia,1,,1,LUL infiltrates,,,,Yes
+119,PID_70A,A,70,TB,27,0,4,16.9,1,8,4,1,0,2,1,195,505,1,1,1,0,0,1,8,1,None,,0,6,,,,,"LUL infiltrates, Cavity",YES - 1,0,1,No
+120,PID_71A,A,71,TB,42,0,5,8.9,1,2,4,1,0,1,1,118,354,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL, LUL, RLL, LLL infiltrates, Cavity",YES - 1,0,4,Yes
+121,PID_71C,C,71,NTB,59,0,,,,,,,1,0,0,299,878,0,1,0,,,1,9,0,,,0,0,,0,1,1,MISSING,,,,Yes
+122,PID_72A,A,72,TB,44,0,4,,1,3,4,1,0,1,1,118,354,1,1,1,0,0,1,12,1,None,,1,6,,,,,"LUL lobar consolidation, RUL, RLL, LLL infiltrate, Cavity",YES - 1,1,4,Yes
+123,PID_72C,C,72,NTB,,0,,,,,,,0,0,0,321,391,1,0,0,,,1,20,1,,,0,0,,0,1,2,MISSING,,,,Yes
+124,PID_73C,C,73,NTB,39,0,,,,,,,1,0,0,140,417,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+125,PID_74A,A,74,TB,32,0,4,,1,4,3,1,0,0,1,37,109,1,1,1,0,0,1,1,0,,,0,999,,,,,"RUL, RLL infiltrates, cavitary",YES - 1,0,2,Yes
+126,PID_74C,C,74,NTB,32,0,,,,,,,1,0,0,245,733,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+127,PID_76A,A,76,TB,65,0,5,,1,4,2,1,0,0,1,158,370,1,1,0,0,0,1,8,1,Hypertension,,1,6,,,,,"LUL infiltrate, RLL limited consolidation, right small pleural effusion, cavity",YES - 1,1,2,No
+128,PID_77A,A,77,TB,45,0,5,10.5,1,4,2,1,0,0,1,56,112,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL infiltrate, LLL infiltrate, Cavity",YES - 1,0,2,Yes
+129,PID_77C,C,77,NTB,35,0,,,,,,,0,0,0,26,78,1,1,1,,,1,,1,,,0,0,,0,1,1,"bibasilar infiltrates, more on the subtle side",,,,Yes
+130,PID_78A,A,78,TB,21,0,4,18.2,1,7,2,1,0,0,1,319,908,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RUL/LUL/RLL/LLL infiltrates, cavities",YES - 2,0,4,Yes
+131,PID_78C,C,78,NTB,47,1,,,,,,,0,0,0,22,66,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+132,PID_79C,C,79,NTB,42,0,,,,,,,,,0,84,160,,,,,,1,,,,,,,,0,,,Normal lung fields,,Normal lung fields,,Yes
+133,PID_7C,C,7,NTB,40,0,,,,,,,1,0,0,28,83,1,1,0,,,0,,0,,,1,0,,1,1,2,Normal lung fields,,Normal lung fields,,Yes
+134,PID_80A,A,80,TB,49,0,3,26,1,7,2,1,0,0,1,29,87,1,1,1,0,0,1,16,1,None,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,0,2,Yes
+135,PID_80C,C,80,NTB,34,1,,,,,,,,0,0,5,14,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+136,PID_81A,A,81,TB,41,0,4,16.9,1,3,3,1,0,1,1,332,970,1,1,1,0,0,1,16,0,None,,0,6,,,,,"RUL lobar consolidation, RLL limited consolidation, LUL limited consolidation, Cavitary",YES - 2,3,3,Yes
+137,PID_82A,A,82,TB,38,0,4,20.5,1,6,3,0,0,1,1,120,356,1,1,1,0,0,1,20,0,None,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,2,2,Yes
+138,PID_82C,C,82,NTB,25,1,,,,,,,0,1,0,92,151,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+139,PID_88A,A,88,TB,38,1,3,23.5,1,4,2,0,1,0,1,78,134,0,1,1,0,0,1,1,0,,,0,999,,,,,"Right pleural effusion - large, no cavities",NO,0,0,Yes
+140,PID_8A,A,8,TB,40,1,4,20.8,1,6,1,1,1,0,1,25,75,1,1,1,0,0,1,4,0,None,,0,6,,,,,"LUL, LLL (lobar) consolidations, cavitary",YES - 1,2,2,Yes
+141,PID_8C,C,8,NTB,44,1,,,,,,,1,1,0,31,72,0,0,0,,,1,24,0,,,0,0,No,1,,4,Normal lung fields,,Normal lung fields,,Yes
+142,PID_92A,A,92,TB,30,1,4,,1,14,2,0,0,0,1,21,61,0,1,1,0,0,1,5,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+143,PID_93A,A,93,TB,28,1,4,21.3,1,7,2,0,0,0,1,110,162,1,1,1,0,0,1,16,0,None,,2,6,,,,,MISSING,,,,Yes
+144,PID_96A,A,96,TB,40,1,5,14.6,1,3,4,0,0,0,1,19,52,1,0,1,0,0,1,10,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+145,PID_97A,A,97,TB,38,1,4,16.5,1,3,2,0,0,0,1,31,77,1,1,1,0,0,1,12,1,None,,0,6,,,,,"RUL limited consolidation, RLL, LLL infiltrates, no cavity",NO,1,3,Yes
+146,PID_99A,A,99,TB,46,1,4,16.1,1,6,3,1,1,0,1,298,818,1,1,1,0,0,1,4,0,None,,0,6,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,Yes
+147,PID_9A,A,9,TB,43,1,5,15.4,1,4,4,1,0,0,1,56,168,1,1,1,0,0,1,12,0,None,,0,6,,,,,"LLL infitrates, cavitary",YES - 1,0,1,Yes
+148,PID_9C,C,9,NTB,24,1,,,,,,,0,0,0,39,105,1,1,0,,,1,1,0,,,0,0,Not yet,1,,1,Normal lung fields,,Normal lung fields,,Yes

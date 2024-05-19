@@ -1,0 +1,1226 @@
+,path,subject,device,cohort,sub,Label,age,gndr_a,lab_sptm_xprt_rslt_a,lab_sptm_xpert_ct_a,lab_sptm_cx_rslt_a,lab_sptm_cx_ttd_a,lab_sptm_smr_rslt_a,cxr_findings_a___5,hiv_infected_a,smkr_a,class,fever,un_wght_loss,nght_swts,inhaler,extrapulmo_tb,cough,cough_drtn,cough_bld,comor_other,comor_lung,prev_tb,comor,cough_cause_other,transfer_from_A,cough_cause,cough_trt,Primary findings,Cavities - Y/N; if Y number of lobes,Number_of_quadrants_with_consolidation,Abnormal_quadrants_number_denominator_4,Permission_sound
+0,PID_175A_0_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+1,PID_175A_0_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+2,PID_175A0_yeti,PID_175A,yeti,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+3,PID_175A_1_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+4,PID_175A_1_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+5,PID_175A1_yeti,PID_175A,yeti,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+6,PID_175A_2_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+7,PID_175A_2_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+8,PID_175A2_yeti,PID_175A,yeti,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+9,PID_175A_3_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+10,PID_175A_4_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+11,PID_175A_4_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+12,PID_175A4_yeti,PID_175A,yeti,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+13,PID_175A_5_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+14,PID_175A_6_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+15,PID_175A_6_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+16,PID_175A6_yeti,PID_175A,yeti,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+17,PID_175A_7_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+18,PID_175A_8_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+19,PID_175A_9_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+20,PID_175A_9_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+21,PID_175A9_yeti,PID_175A,yeti,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+22,PID_175A_10_codec,PID_175A,codec,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+23,PID_175A_10_pixel,PID_175A,pixel,A,175,TB,36,0,5,15.8,1,4,2,0,0,1,1,1,1,1,0,0,1,2,0,None,,0,6,,,,,"RUL limited consolidatin, RLL/LUL infiltrate",NO,1,3,Yes
+24,PID_177A_0_yeti,PID_177A,yeti,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+25,PID_177A_0_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+26,PID_177A_1_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+27,PID_177A_1_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+28,PID_177A_2_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+29,PID_177A_2_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+30,PID_177A_3_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+31,PID_177A_3_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+32,PID_177A_4_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+33,PID_177A_4_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+34,PID_177A_5_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+35,PID_177A_5_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+36,PID_177A_6_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+37,PID_177A_6_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+38,PID_177A_7_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+39,PID_177A_7_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+40,PID_177A_8_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+41,PID_177A_8_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+42,PID_177A_9_codec,PID_177A,codec,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+43,PID_177A_9_pixel,PID_177A,pixel,A,177,TB,27,0,3,17.2,1,4,3,0,0,0,1,0,0,0,0,0,1,16,0,None,,0,6,,,,,"LLL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+44,PID_180A_0_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+45,PID_180A_0_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+46,PID_180A_1_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+47,PID_180A_1_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+48,PID_180A_2_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+49,PID_180A_2_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+50,PID_180A_3_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+51,PID_180A_3_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+52,PID_180A_4_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+53,PID_180A_4_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+54,PID_180A_5_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+55,PID_180A_5_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+56,PID_180A_6_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+57,PID_180A_6_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+58,PID_180A_7_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+59,PID_180A_7_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+60,PID_180A_8_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+61,PID_180A_8_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+62,PID_180A_9_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+63,PID_180A_9_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+64,PID_180A_10_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+65,PID_180A_10_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+66,PID_180A_11_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+67,PID_180A_11_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+68,PID_180A_12_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+69,PID_180A_12_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+70,PID_180A_13_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+71,PID_180A_13_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+72,PID_180A_14_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+73,PID_180A_14_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+74,PID_180A_15_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+75,PID_180A_15_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+76,PID_180A_16_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+77,PID_180A_16_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+78,PID_180A_17_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+79,PID_180A_17_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+80,PID_180A_18_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+81,PID_180A_18_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+82,PID_180A_19_yeti,PID_180A,yeti,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+83,PID_180A_19_codec,PID_180A,codec,A,180,TB,40,0,3,23.7,1,3,3,0,0,1,1,1,1,1,0,0,1,4,0,,,1,999,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+84,PID_181A_0_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+85,PID_181A_1_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+86,PID_181A_2_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+87,PID_181A_3_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+88,PID_181A_4_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+89,PID_181A_5_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+90,PID_181A_6_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+91,PID_181A_7_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+92,PID_181A_8_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+93,PID_181A_9_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+94,PID_181A_10_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+95,PID_181A_11_pixel,PID_181A,pixel,A,181,TB,48,0,3,22.2,1,3,4,1,0,1,1,1,1,1,0,0,1,12,1,Ulcer,,0,6,,,,,"RUL/RLL infiltrates, cavity",YES - 1,0,2,Yes
+96,PID_182A_0_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+97,PID_182A_1_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+98,PID_182A_2_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+99,PID_182A_3_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+100,PID_182A_4_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+101,PID_182A_5_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+102,PID_182A_6_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+103,PID_182A_7_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+104,PID_182A_8_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+105,PID_182A_9_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+106,PID_182A_10_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+107,PID_182A_11_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+108,PID_182A_12_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+109,PID_182A_13_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+110,PID_182A_14_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+111,PID_182A_15_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+112,PID_182A_16_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+113,PID_182A_17_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+114,PID_182A_18_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+115,PID_182A_19_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+116,PID_182A_20_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+117,PID_182A_21_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+118,PID_182A_22_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+119,PID_182A_23_pixel,PID_182A,pixel,A,182,TB,36,0,5,16,1,2,4,1,0,2,1,1,1,1,0,0,1,12,1,,,0,999,,,,,"LUL/RUL limited consolidatin, LLL infiltrate, cavity",YES - 2,2,3,Yes
+120,PID_183A_0_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+121,PID_183A_0_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+122,PID_183A_1_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+123,PID_183A_1_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+124,PID_183A1_yeti,PID_183A,yeti,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+125,PID_183A_2_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+126,PID_183A_3_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+127,PID_183A_4_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+128,PID_183A_4_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+129,PID_183A_5_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+130,PID_183A_6_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+131,PID_183A_6_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+132,PID_183A6_yeti,PID_183A,yeti,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+133,PID_183A_7_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+134,PID_183A_8_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+135,PID_183A_9_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+136,PID_183A_9_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+137,PID_183A9_yeti,PID_183A,yeti,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+138,PID_183A_10_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+139,PID_183A_11_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+140,PID_183A_11_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+141,PID_183A_12_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+142,PID_183A_13_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+143,PID_183A_14_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+144,PID_183A_14_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+145,PID_183A_15_codec,PID_183A,codec,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+146,PID_183A_15_pixel,PID_183A,pixel,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+147,PID_183A15_yeti,PID_183A,yeti,A,183,TB,22,0,3,23.1,1,4,3,0,0,0,1,1,1,1,0,0,1,3,1,,,0,999,,,,,"LUL limited consolidation, LLL infiltrate, cavity",YES - 1,1,2,No
+148,PID_184A_0_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+149,PID_184A_1_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+150,PID_184A_2_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+151,PID_184A_3_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+152,PID_184A_4_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+153,PID_184A_5_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+154,PID_184A_6_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+155,PID_184A_7_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+156,PID_184A_8_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+157,PID_184A_9_pixel,PID_184A,pixel,A,184,TB,44,0,5,10.6,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,,,0,999,,,,,"RUL lobar consolidatin, RLL limited consolidation, LUL/LLL infiltrate, cavity, R pleural effusion (small)",YES - 1,2,4,Yes
+158,PID_185A_0_codec_0,PID_185A,codec,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+159,PID_185A_0_pixel_0,PID_185A,pixel,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+160,PID_185A0_yeti_0,PID_185A,yeti,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+161,PID_185A_1_codec_0,PID_185A,codec,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+162,PID_185A_1_pixel_0,PID_185A,pixel,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+163,PID_185A1_yeti_0,PID_185A,yeti,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+164,PID_185A_2_codec_0,PID_185A,codec,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+165,PID_185A_2_pixel_0,PID_185A,pixel,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+166,PID_185A2_yeti_0,PID_185A,yeti,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+167,PID_185A_3_codec_0,PID_185A,codec,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+168,PID_185A_3_pixel_0,PID_185A,pixel,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+169,PID_185A3_yeti_0,PID_185A,yeti,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+170,PID_185A_4_codec,PID_185A,codec,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+171,PID_185A_4_pixel,PID_185A,pixel,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+172,PID_185A4_yeti,PID_185A,yeti,A,185,TB,30,1,4,16.1,1,4,2,1,0,0,1,1,1,1,0,0,1,7,0,,,0,999,,,,,"RUL infiltrates, cavity",YES - 1,0,1,Yes
+173,PID_186A_0_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+174,PID_186A_0_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+175,PID_186A0_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+176,PID_186A_1_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+177,PID_186A_1_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+178,PID_186A1_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+179,PID_186A_2_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+180,PID_186A_4_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+181,PID_186A_4_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+182,PID_186A4_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+183,PID_186A_5_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+184,PID_186A_6_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+185,PID_186A_6_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+186,PID_186A6_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+187,PID_186A_7_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+188,PID_186A_8_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+189,PID_186A_8_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+190,PID_186A8_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+191,PID_186A_9_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+192,PID_186A_10_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+193,PID_186A_10_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+194,PID_186A10_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+195,PID_186A_11_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+196,PID_186A_12_codec,PID_186A,codec,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+197,PID_186A_12_pixel,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+198,PID_186A12_yeti,PID_186A,yeti,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+199,PID_186A_13_pixel_0,PID_186A,pixel,A,186,TB,19,0,3,27.1,1,4,2,0,0,0,1,1,1,1,0,0,1,12,0,,,0,999,,,,,RLL infiltrate,NO,0,1,Yes
+200,PID_187A_0_codec,PID_187A,codec,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+201,PID_187A_0_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+202,PID_187A_1_codec,PID_187A,codec,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+203,PID_187A_1_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+204,PID_187A_2_codec,PID_187A,codec,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+205,PID_187A_2_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+206,PID_187A_3_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+207,PID_187A_4_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+208,PID_187A_5_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+209,PID_187A_6_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+210,PID_187A_7_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+211,PID_187A_8_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+212,PID_187A_9_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+213,PID_187A_10_pixel,PID_187A,pixel,A,187,TB,39,0,5,16.1,1,4,3,1,0,1,1,1,1,1,0,0,1,12,1,,,,1,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+214,PID_189A_1_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+215,PID_189A_2_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+216,PID_189A_3_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+217,PID_189A_5_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+218,PID_189A_7_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+219,PID_189A_8_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+220,PID_189A_10_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+221,PID_189A_11_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+222,PID_189A_13_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+223,PID_189A_14_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+224,PID_189A_16_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+225,PID_189A_17_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+226,PID_189A_18_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+227,PID_189A_20_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+228,PID_189A_21_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+229,PID_189A_23_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+230,PID_189A_24_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+231,PID_189A_26_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+232,PID_189A_27_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+233,PID_189A_29_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+234,PID_189A_30_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+235,PID_189A_32_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+236,PID_189A_33_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+237,PID_189A_36_codec,PID_189A,codec,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+238,PID_189A_38_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+239,PID_189A_39_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+240,PID_189A_41_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+241,PID_189A_42_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+242,PID_189A_44_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+243,PID_189A_45_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+244,PID_189A_47_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+245,PID_189A_48_pixel,PID_189A,pixel,A,189,TB,26,0,5,,1,4,3,0,0,0,1,1,1,1,0,0,1,48,1,,,0,999,,,,,"RUL/LUL/LLL infiltrates, cavity",YES - 1,0,3,Yes
+246,PID_192A_0_codec,PID_192A,codec,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+247,PID_192A_1_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+248,PID_192A_2_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+249,PID_192A_3_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+250,PID_192A_4_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+251,PID_192A_5_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+252,PID_192A_6_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+253,PID_192A_7_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+254,PID_192A_8_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+255,PID_192A_9_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+256,PID_192A_10_pixel,PID_192A,pixel,A,192,TB,38,0,5,16.5,1,4,4,1,1,1,1,1,0,1,0,0,1,12,1,,,0,999,,,,,"RUL limited consolidation, LUL/RLL/LLL infiltrates, cavities",YES - 2,1,4,Yes
+257,PID_193A_1_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+258,PID_193A_1_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+259,PID_193A_2_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+260,PID_193A_2_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+261,PID_193A2_yeti,PID_193A,yeti,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+262,PID_193A_3_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+263,PID_193A_3_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+264,PID_193A_5_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+265,PID_193A_5_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+266,PID_193A_6_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+267,PID_193A_6_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+268,PID_193A_8_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+269,PID_193A_9_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+270,PID_193A_9_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+271,PID_193A9_yeti,PID_193A,yeti,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+272,PID_193A_11_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+273,PID_193A_12_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+274,PID_193A_12_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+275,PID_193A_14_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+276,PID_193A_14_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+277,PID_193A_16_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+278,PID_193A_16_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+279,PID_193A_18_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+280,PID_193A_18_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+281,PID_193A_19_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+282,PID_193A_19_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+283,PID_193A_20_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+284,PID_193A_22_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+285,PID_193A_22_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+286,PID_193A_24_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+287,PID_193A_24_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+288,PID_193A24_yeti,PID_193A,yeti,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+289,PID_193A_25_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+290,PID_193A_26_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+291,PID_193A_26_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+292,PID_193A_28_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+293,PID_193A_28_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+294,PID_193A_29_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+295,PID_193A_29_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+296,PID_193A_31_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+297,PID_193A_32_codec,PID_193A,codec,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+298,PID_193A_32_pixel,PID_193A,pixel,A,193,TB,43,0,5,14.3,1,4,3,0,0,1,1,1,1,1,0,999,1,12,1,,,0,999,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 1,1,2,Yes
+299,PID_195A_0_codec_0,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+300,PID_195A_0_pixel_0,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+301,PID_195A0_yeti_0,PID_195A,yeti,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+302,PID_195A_1_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+303,PID_195A_1_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+304,PID_195A_2_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+305,PID_195A_2_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+306,PID_195A_3_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+307,PID_195A_3_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+308,PID_195A_4_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+309,PID_195A_4_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+310,PID_195A_5_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+311,PID_195A_5_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+312,PID_195A_6_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+313,PID_195A_6_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+314,PID_195A_7_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+315,PID_195A_7_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+316,PID_195A_8_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+317,PID_195A_8_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+318,PID_195A_9_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+319,PID_195A_9_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+320,PID_195A_10_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+321,PID_195A_10_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+322,PID_195A_11_codec,PID_195A,codec,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+323,PID_195A_11_pixel,PID_195A,pixel,A,195,TB,32,0,4,22.7,1,3,4,1,0,0,1,1,1,1,0,0,1,4,0,None,,0,6,,,,,"RLL limited consolidatin, RUL infiltrate, cavity",YES - 2,1,2,Yes
+324,PID_198A_0_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+325,PID_198A_0_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+326,PID_198A0_yeti,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+327,PID_198A_1_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+328,PID_198A_1_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+329,PID_198A1_yeti_0,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+330,PID_198A_2_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+331,PID_198A_2_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+332,PID_198A_3_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+333,PID_198A_3_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+334,PID_198A3_yeti,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+335,PID_198A_4_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+336,PID_198A_4_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+337,PID_198A4_yeti,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+338,PID_198A_5_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+339,PID_198A_5_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+340,PID_198A5_yeti,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+341,PID_198A_6_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+342,PID_198A_6_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+343,PID_198A_7_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+344,PID_198A_7_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+345,PID_198A_8_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+346,PID_198A_8_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+347,PID_198A_9_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+348,PID_198A_9_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+349,PID_198A9_yeti,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+350,PID_198A_10_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+351,PID_198A_10_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+352,PID_198A_11_codec,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+353,PID_198A_11_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+354,PID_198A11_yeti,PID_198A,yeti,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+355,PID_198A_12_pixel,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+356,PID_198A_13_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+357,PID_198A_13_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+358,PID_198A_14_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+359,PID_198A_14_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+360,PID_198A_15_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+361,PID_198A_15_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+362,PID_198A_16_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+363,PID_198A_16_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+364,PID_198A_17_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+365,PID_198A_17_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+366,PID_198A_18_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+367,PID_198A_18_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+368,PID_198A_19_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+369,PID_198A_19_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+370,PID_198A_20_codec_0,PID_198A,codec,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+371,PID_198A_20_pixel_0,PID_198A,pixel,A,198,TB,22,1,3,19.4,1,4,3,1,,0,1,1,1,0,0,0,1,4,0,,,0,8,,,,,"LLL limited consolidation, cavity",YES - 1,1,1,Yes
+372,PID_200A_0_pixel_0,PID_200A,pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+373,PID_200A_1_pixel_0,PID_200A,pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+374,PID_200A_1_codec_0,PID_200A,codec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+375,PID_200A_2_pixel,PID_200A,pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,PID_200A_3_pixel,PID_200A,pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+377,PID_200A_4_pixel,PID_200A,pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+378,PID_200A_4_codec,PID_200A,codec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+379,PID_200A_5_pixel_0,PID_200A,pixel,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+380,PID_201A_0_yeti,PID_201A,yeti,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+381,PID_201A_0_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+382,PID_201A_2_yeti,PID_201A,yeti,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+383,PID_201A_2_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+384,PID_201A_4_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+385,PID_201A_4_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+386,PID_201A_5_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+387,PID_201A_5_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+388,PID_201A5_yeti,PID_201A,yeti,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+389,PID_201A_6_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+390,PID_201A_6_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+391,PID_201A_7_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+392,PID_201A_7_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+393,PID_201A7_yeti,PID_201A,yeti,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+394,PID_201A_9_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+395,PID_201A_9_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+396,PID_201A9_yeti,PID_201A,yeti,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+397,PID_201A_11_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+398,PID_201A_11_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+399,PID_201A_12_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+400,PID_201A_12_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+401,PID_201A_13_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+402,PID_201A_13_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+403,PID_201A_14_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+404,PID_201A_14_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+405,PID_201A14_yeti,PID_201A,yeti,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+406,PID_201A_15_codec,PID_201A,codec,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+407,PID_201A_15_pixel,PID_201A,pixel,A,201,TB,55,0,4,16.2,1,4,2,0,0,1,1,0,1,0,0,0,1,4,0,,,1,999,,,,,RUL infiltrate,NO,0,1,Yes
+408,PID_204A_0_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+409,PID_204A_0_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+410,PID_204A_1_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+411,PID_204A_1_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+412,PID_204A1_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+413,PID_204A_2_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+414,PID_204A_2_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+415,PID_204A2_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+416,PID_204A_3_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+417,PID_204A_3_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+418,PID_204A3_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+419,PID_204A_4_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+420,PID_204A_4_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+421,PID_204A4_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+422,PID_204A_5_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+423,PID_204A_5_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+424,PID_204A5_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+425,PID_204A_6_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+426,PID_204A_6_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+427,PID_204A6_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+428,PID_204A_7_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+429,PID_204A_7_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+430,PID_204A_8_codec_0,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+431,PID_204A_8_pixel_0,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+432,PID_204A_9_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+433,PID_204A_9_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+434,PID_204A9_yeti,PID_204A,yeti,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+435,PID_204A_10_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+436,PID_204A_10_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+437,PID_204A_11_codec,PID_204A,codec,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+438,PID_204A_11_pixel,PID_204A,pixel,A,204,TB,22,1,5,33.1,1,3,3,0,0,0,1,1,1,1,0,0,1,24,0,None,,0,6,,,,,"RUL/RLL/LLL infiltrates, L pleural effusion, cavitary",YES - 2,0,3,Yes
+439,PID_205A_0_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+440,PID_205A_2_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+441,PID_205A_2_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+442,PID_205A_5_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+443,PID_205A_5_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+444,PID_205A_7_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+445,PID_205A_7_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+446,PID_205A_10_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+447,PID_205A_10_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+448,PID_205A_11_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+449,PID_205A_11_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+450,PID_205A_12_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+451,PID_205A_14_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+452,PID_205A_14_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+453,PID_205A_16_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+454,PID_205A_16_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+455,PID_205A_17_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+456,PID_205A_17_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+457,PID_205A_18_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+458,PID_205A_18_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+459,PID_205A_21_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+460,PID_205A_21_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+461,PID_205A_22_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+462,PID_205A_23_yeti,PID_205A,yeti,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+463,PID_205A_23_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+464,PID_205A_24_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+465,PID_205A_25_codec,PID_205A,codec,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+466,PID_205A_28_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+467,PID_205A_30_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+468,PID_205A_31_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+469,PID_205A_32_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+470,PID_205A_33_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+471,PID_205A_35_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+472,PID_205A_36_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+473,PID_205A_37_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+474,PID_205A_38_pixel,PID_205A,pixel,A,205,TB,48,0,4,25,1,4,2,1,0,1,1,0,1,0,0,0,1,4,0,None ,,0,6,,,,,"RUL limited consolidation, RLL/LUL/LLL infiltrates, L pl effusion, cavitary",YES - 1,1,4,Yes
+475,PID_206A_1_pixel,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+476,PID_206A_2_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+477,PID_206A_3_codec,PID_206A,codec,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+478,PID_206A_4_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+479,PID_206A_4_yeti_0,PID_206A,yeti,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+480,PID_206A_5_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+481,PID_206A_6_codec_0,PID_206A,codec,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+482,PID_206A_7_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+483,PID_206A_8_codec,PID_206A,codec,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+484,PID_206A_9_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+485,PID_206A_9_yeti_0,PID_206A,yeti,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+486,PID_206A_10_codec_0,PID_206A,codec,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+487,PID_206A_11_codec_0,PID_206A,codec,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+488,PID_206A_12_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+489,PID_206A_13_codec_0,PID_206A,codec,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+490,PID_206A_14_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+491,PID_206A_15_pixel_0,PID_206A,pixel,A,206,TB,38,1,1,27,0,,0,0,,1,1,1,0,1,0,0,1,2,0,Hypertension ,,0,6,,,,,"Clear lung fields, right paratracheal LAD",NO,0,0,Yes
+492,PID_207A_0_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+493,PID_207A_1_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+494,PID_207A_2_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+495,PID_207A_2_codec_0,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+496,PID_207A_3_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+497,PID_207A_3_codec_0,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+498,PID_207A_4_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+499,PID_207A_5_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+500,PID_207A_5_codec_0,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+501,PID_207A_6_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+502,PID_207A_7_codec_0,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+503,PID_207A_8_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+504,PID_207A_8_pixel_1,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+505,PID_207A_9_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+506,PID_207A_10_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+507,PID_207A_11_pixel_0,PID_207A,pixel,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+508,PID_207A_12_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+509,PID_207A_12_yeti_1,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+510,PID_207A_12_codec_1,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+511,PID_207A_14_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+512,PID_207A_15_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+513,PID_207A_15_codec_0,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+514,PID_207A_15_codec_1,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+515,PID_207A_16_yeti_0,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+516,PID_207A_16_yeti_1,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+517,PID_207A_16_codec_0,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+518,PID_207A_16_codec_1,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+519,PID_207A_17_yeti,PID_207A,yeti,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+520,PID_207A_17_codec,PID_207A,codec,A,207,TB,99,1,1,26.2,1,7,1,0,0,0,1,1,1,0,0,0,0,,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+521,PID_208A_0_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+522,PID_208A_1_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+523,PID_208A_2_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+524,PID_208A_3_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+525,PID_208A_4_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+526,PID_208A_5_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+527,PID_208A_6_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+528,PID_208A_7_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+529,PID_208A_8_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+530,PID_208A_9_pixel,PID_208A,pixel,A,208,TB,33,0,4,16.7,1,6,2,0,0,0,1,1,1,1,0,0,1,16,0,None ,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+531,PID_209A_0_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+532,PID_209A_1_codec,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+533,PID_209A_2_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+534,PID_209A_3_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+535,PID_209A_4_pixel_0,PID_209A,pixel,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+536,PID_209A_5_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+537,PID_209A_6_pixel_0,PID_209A,pixel,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+538,PID_209A_7_pixel_0,PID_209A,pixel,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+539,PID_209A_8_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+540,PID_209A_9_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+541,PID_209A_10_pixel_0,PID_209A,pixel,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+542,PID_209A_11_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+543,PID_209A_12_pixel_0,PID_209A,pixel,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+544,PID_209A_13_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+545,PID_209A_15_pixel,PID_209A,pixel,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+546,PID_209A_16_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+547,PID_209A_18_codec_0,PID_209A,codec,A,209,TB,44,1,5,11.4,1,2,4,0,1,0,1,1,1,1,0,0,1,4,0,,,0,2,,,,,"LLL limited consolidation, RLL infiltrate, cavity",YES - 1,1,2,Yes
+548,PID_211A_0_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+549,PID_211A_0_pixel,PID_211A,pixel,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+550,PID_211A0_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+551,PID_211A_1_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+552,PID_211A1_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+553,PID_211A_2_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+554,PID_211A2_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+555,PID_211A_3_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+556,PID_211A3_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+557,PID_211A_4_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+558,PID_211A4_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+559,PID_211A_5_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+560,PID_211A5_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+561,PID_211A_6_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+562,PID_211A6_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+563,PID_211A_7_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+564,PID_211A7_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+565,PID_211A_8_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+566,PID_211A_8_pixel,PID_211A,pixel,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+567,PID_211A8_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+568,PID_211A_9_codec,PID_211A,codec,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+569,PID_211A9_yeti,PID_211A,yeti,A,211,TB,46,0,3,23.7,1,4,3,0,0,1,1,1,1,0,0,0,1,1,0,No,,0,6,,,,,RUL/LLL infiltrates,NO,0,2,Yes
+570,PID_212A_0_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+571,PID_212A0_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+572,PID_212A_1_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+573,PID_212A_1_pixel,PID_212A,pixel,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+574,PID_212A1_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+575,PID_212A_2_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+576,PID_212A_2_pixel,PID_212A,pixel,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+577,PID_212A2_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+578,PID_212A_3_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+579,PID_212A_3_pixel,PID_212A,pixel,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+580,PID_212A3_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+581,PID_212A_4_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+582,PID_212A_4_pixel,PID_212A,pixel,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+583,PID_212A4_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+584,PID_212A_5_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+585,PID_212A_5_pixel,PID_212A,pixel,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+586,PID_212A5_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+587,PID_212A_6_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+588,PID_212A6_yeti,PID_212A,yeti,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+589,PID_212A_7_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+590,PID_212A_8_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+591,PID_212A_9_codec,PID_212A,codec,A,212,TB,21,1,5,14.8,1,3,4,0,0,0,1,1,1,1,0,0,1,12,0,None ,,1,6,,,,,"LUL/LLL limited consolidation, cavity",YES - 2,2,2,Yes
+592,PID_214A_0_codec_0,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+593,PID_214A_1_codec_0,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+594,PID_214A_2_codec_0,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+595,PID_214A_3_codec_0,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+596,PID_214A_4_codec_0,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+597,PID_214A_5_codec,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+598,PID_214A_6_codec,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+599,PID_214A6_yeti,PID_214A,yeti,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+600,PID_214A_7_codec,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+601,PID_214A_7_pixel,PID_214A,pixel,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+602,PID_214A7_yeti,PID_214A,yeti,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+603,PID_214A_8_codec,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+604,PID_214A_8_pixel,PID_214A,pixel,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+605,PID_214A8_yeti,PID_214A,yeti,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+606,PID_214A_9_codec,PID_214A,codec,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+607,PID_214A_9_pixel,PID_214A,pixel,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+608,PID_214A9_yeti,PID_214A,yeti,A,214,TB,24,0,5,16.3,1,2,4,1,0,1,1,0,1,0,0,0,1,3,0,,,1,999,,,,,"RUL limited consolidation, LUL infiltrate, cavity",YES - 1,1,2,Yes
+609,PID_216A_16_pixel,PID_216A,pixel,A,216,TB,28,0,4,16.6,1,5,4,0,0,1,1,0,1,0,0,0,1,8,0,None ,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,0,2,Yes
+610,PID_216A_17_pixel,PID_216A,pixel,A,216,TB,28,0,4,16.6,1,5,4,0,0,1,1,0,1,0,0,0,1,8,0,None ,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,0,2,Yes
+611,PID_216A_23_pixel,PID_216A,pixel,A,216,TB,28,0,4,16.6,1,5,4,0,0,1,1,0,1,0,0,0,1,8,0,None ,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,0,2,Yes
+612,PID_216A_24_pixel,PID_216A,pixel,A,216,TB,28,0,4,16.6,1,5,4,0,0,1,1,0,1,0,0,0,1,8,0,None ,,0,6,,,,,"RUL/LUL infiltrates, cavity",YES - 1,0,2,Yes
+613,PID_218A_1_yeti,PID_218A,yeti,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+614,PID_218A_1_codec,PID_218A,codec,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+615,PID_218A_2_pixel,PID_218A,pixel,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+616,PID_218A_3_yeti,PID_218A,yeti,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+617,PID_218A_3_codec,PID_218A,codec,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+618,PID_218A_4_pixel,PID_218A,pixel,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+619,PID_218A_5_yeti,PID_218A,yeti,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+620,PID_218A_5_codec,PID_218A,codec,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+621,PID_218A_6_pixel,PID_218A,pixel,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+622,PID_218A_7_pixel,PID_218A,pixel,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+623,PID_218A_8_pixel,PID_218A,pixel,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+624,PID_218A_9_pixel,PID_218A,pixel,A,218,TB,39,0,5,15.2,1,4,4,1,0,2,1,0,1,0,0,0,1,4,0,None,,1,6,,,,,"LUL infiltrates, cavity",YES - 1,0,1,Yes
+625,PID_219A_0_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+626,PID_219A_1_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+627,PID_219A_2_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+628,PID_219A_3_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+629,PID_219A_4_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+630,PID_219A_5_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+631,PID_219A_6_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+632,PID_219A_7_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+633,PID_219A_8_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+634,PID_219A_9_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+635,PID_219A_10_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+636,PID_219A_11_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+637,PID_219A_12_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+638,PID_219A_13_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+639,PID_219A_14_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+640,PID_219A_15_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+641,PID_219A_16_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+642,PID_219A_17_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+643,PID_219A_18_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+644,PID_219A_19_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+645,PID_219A_20_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+646,PID_219A_21_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+647,PID_219A_22_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+648,PID_219A_23_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+649,PID_219A_24_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+650,PID_219A_25_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+651,PID_219A_26_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+652,PID_219A_27_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+653,PID_219A_28_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+654,PID_219A_29_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+655,PID_219A_30_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+656,PID_219A_31_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+657,PID_219A_32_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+658,PID_219A_33_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+659,PID_219A_34_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+660,PID_219A_35_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+661,PID_219A_36_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+662,PID_219A_37_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+663,PID_219A_38_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+664,PID_219A_39_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+665,PID_219A_40_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+666,PID_219A_41_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+667,PID_219A_42_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+668,PID_219A_43_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+669,PID_219A_44_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+670,PID_219A_45_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+671,PID_219A_46_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+672,PID_219A_47_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+673,PID_219A_48_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+674,PID_219A_49_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+675,PID_219A_50_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+676,PID_219A_51_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+677,PID_219A_52_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+678,PID_219A_53_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+679,PID_219A_54_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+680,PID_219A_55_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+681,PID_219A_56_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+682,PID_219A_57_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+683,PID_219A_58_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+684,PID_219A_59_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+685,PID_219A_60_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+686,PID_219A_62_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+687,PID_219A_63_pixel_0,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+688,PID_219A_65_pixel,PID_219A,pixel,A,219,TB,40,1,1,26.3,,,,0,0,0,1,0,0,0,0,0,1,3,0,None,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+689,PID_220A_0_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+690,PID_220A_1_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+691,PID_220A_2_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+692,PID_220A_3_codec_0,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+693,PID_220A3_yeti_0,PID_220A,yeti,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+694,PID_220A_4_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+695,PID_220A_5_codec_0,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+696,PID_220A_6_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+697,PID_220A6_yeti,PID_220A,yeti,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+698,PID_220A_7_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+699,PID_220A_8_codec,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+700,PID_220A8_yeti,PID_220A,yeti,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+701,PID_220A_9_codec_0,PID_220A,codec,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+702,PID_220A9_yeti_0,PID_220A,yeti,A,220,TB,32,1,1,27.9,,,,0,0,0,1,1,1,1,0,0,0,,0,None ,,0,6,,,,,Normal lung fields,NO,0,0,Yes
+703,PID_222A_0_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+704,PID_222A_3_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+705,PID_222A_4_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+706,PID_222A_5_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+707,PID_222A_6_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+708,PID_222A_8_yeti_0,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+709,PID_222A_9_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+710,PID_222A_10_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+711,PID_222A_11_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+712,PID_222A_12_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+713,PID_222A_13_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+714,PID_222A_13_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+715,PID_222A_14_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+716,PID_222A_15_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+717,PID_222A_16_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+718,PID_222A_16_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+719,PID_222A_17_pixel_0,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+720,PID_222A_17_yeti_0,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+721,PID_222A_18_yeti_0,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+722,PID_222A_19_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+723,PID_222A_19_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+724,PID_222A_20_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+725,PID_222A_21_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+726,PID_222A_22_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+727,PID_222A_22_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+728,PID_222A_23_yeti_0,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+729,PID_222A_24_pixel,PID_222A,pixel,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+730,PID_222A_24_yeti,PID_222A,yeti,A,222,TB,28,0,5,12,1,2,4,1,0,0,1,1,1,1,0,0,1,12,0,None ,,0,6,,,,,"RUL limited consolidatin, LUL/LLL infiltrate, cavitary",YES - 3,1,3,Yes
+731,PID_224A_0_yeti,PID_224A,yeti,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+732,PID_224A_0_codec,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+733,PID_224A_1_pixel,PID_224A,pixel,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+734,PID_224A_2_codec_0,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+735,PID_224A_4_pixel,PID_224A,pixel,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+736,PID_224A_5_codec,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+737,PID_224A_6_pixel,PID_224A,pixel,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+738,PID_224A_7_codec_0,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+739,PID_224A_8_yeti,PID_224A,yeti,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+740,PID_224A_8_codec,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+741,PID_224A_9_yeti_0,PID_224A,yeti,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+742,PID_224A_9_codec_0,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+743,PID_224A_10_pixel_0,PID_224A,pixel,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+744,PID_224A_11_yeti_0,PID_224A,yeti,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+745,PID_224A_11_codec_0,PID_224A,codec,A,224,TB,34,1,3,23.9,1,12,2,1,1,0,1,1,1,0,0,999,1,12,0,,,0,,,,,,"LUL/RLL limited consolidation, pleural effusion R, cavitary",YES - 1,2,2,No
+746,PID_225A_0_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+747,PID_225A_0_codec_0,PID_225A,codec,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+748,PID_225A_1_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+749,PID_225A_2_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+750,PID_225A_2_codec_0,PID_225A,codec,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+751,PID_225A_3_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+752,PID_225A_4_pixel,PID_225A,pixel,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+753,PID_225A_6_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+754,PID_225A_6_codec_0,PID_225A,codec,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+755,PID_225A_7_pixel,PID_225A,pixel,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+756,PID_225A_9_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+757,PID_225A_9_codec_0,PID_225A,codec,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+758,PID_225A_10_yeti_0,PID_225A,yeti,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+759,PID_225A_12_pixel,PID_225A,pixel,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+760,PID_225A_13_codec_0,PID_225A,codec,A,225,TB,52,1,2,26.7,,,,0,0,0,1,1,0,1,0,0,0,,0,None,,0,6,,,,,LUL infiltrate,NO,0,1,Yes
+761,PID_226A_0_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+762,PID_226A0_yeti_0,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+763,PID_226A_1_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+764,PID_226A1_yeti_0,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+765,PID_226A_2_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+766,PID_226A_2_pixel_0,PID_226A,pixel,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+767,PID_226A_3_codec,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+768,PID_226A3_yeti,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+769,PID_226A_4_codec,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+770,PID_226A4_yeti,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+771,PID_226A_5_codec,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+772,PID_226A5_yeti,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+773,PID_226A_6_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+774,PID_226A6_yeti_0,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+775,PID_226A_7_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+776,PID_226A_8_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+777,PID_226A8_yeti_0,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+778,PID_226A_9_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+779,PID_226A_9_pixel_0,PID_226A,pixel,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+780,PID_226A9_yeti_0,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+781,PID_226A_10_codec_0,PID_226A,codec,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+782,PID_226A_10_pixel_0,PID_226A,pixel,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+783,PID_226A10_yeti_0,PID_226A,yeti,A,226,TB,52,0,4,16.3,1,5,4,1,0,0,1,0,1,0,0,0,1,8,0,None,,,6,,,,,"LUL limited consolidation, RUL infiltrate, cavity",YES - 1,1,2,Yes
+784,PID_227A_0_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+785,PID_227A_0_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+786,PID_227A_1_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+787,PID_227A_2_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+788,PID_227A_3_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+789,PID_227A_3_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+790,PID_227A_4_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+791,PID_227A_5_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+792,PID_227A_6_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+793,PID_227A_6_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+794,PID_227A_8_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+795,PID_227A_9_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+796,PID_227A_9_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+797,PID_227A_10_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+798,PID_227A_11_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+799,PID_227A_12_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+800,PID_227A_12_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+801,PID_227A_13_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+802,PID_227A_13_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+803,PID_227A_14_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+804,PID_227A_15_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+805,PID_227A_15_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+806,PID_227A_17_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+807,PID_227A_18_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+808,PID_227A_18_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+809,PID_227A_19_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+810,PID_227A_19_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+811,PID_227A_20_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+812,PID_227A_21_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+813,PID_227A_21_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+814,PID_227A_22_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+815,PID_227A_23_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+816,PID_227A_24_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+817,PID_227A_24_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+818,PID_227A_25_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+819,PID_227A_26_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+820,PID_227A_27_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+821,PID_227A_27_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+822,PID_227A_28_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+823,PID_227A_29_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+824,PID_227A_30_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+825,PID_227A_30_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+826,PID_227A_31_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+827,PID_227A_33_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+828,PID_227A_33_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+829,PID_227A_34_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+830,PID_227A_35_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+831,PID_227A_36_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+832,PID_227A_36_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+833,PID_227A_37_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+834,PID_227A_37_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+835,PID_227A_39_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+836,PID_227A_39_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+837,PID_227A_41_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+838,PID_227A_42_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+839,PID_227A_42_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+840,PID_227A_43_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+841,PID_227A_43_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+842,PID_227A_44_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+843,PID_227A_45_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+844,PID_227A_45_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+845,PID_227A_46_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+846,PID_227A_47_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+847,PID_227A_48_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+848,PID_227A_48_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+849,PID_227A_49_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+850,PID_227A_49_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+851,PID_227A_50_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+852,PID_227A_51_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+853,PID_227A_51_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+854,PID_227A_52_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+855,PID_227A_53_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+856,PID_227A_54_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+857,PID_227A_54_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+858,PID_227A_55_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+859,PID_227A_56_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+860,PID_227A_57_yeti,PID_227A,yeti,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+861,PID_227A_57_codec,PID_227A,codec,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+862,PID_227A_58_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+863,PID_227A_59_pixel,PID_227A,pixel,A,227,TB,27,0,4,17.9,1,7,,1,0,0,1,0,1,0,0,0,1,4,0,None,,0,6,,,,,"RUL lobar consolication, RLL limited consolidation, cavity",YES - 1,2,2,Yes
+864,PID_228A_0_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+865,PID_228A_0_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+866,PID_228A_1_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+867,PID_228A1_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+868,PID_228A_2_codec_0,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+869,PID_228A_2_pixel_0,PID_228A,pixel,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+870,PID_228A2_yeti_0,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+871,PID_228A_3_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+872,PID_228A_3_pixel,PID_228A,pixel,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+873,PID_228A3_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+874,PID_228A_4_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+875,PID_228A4_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+876,PID_228A_5_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+877,PID_228A5_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+878,PID_228A_6_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+879,PID_228A6_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+880,PID_228A_7_codec_0,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+881,PID_228A7_yeti_0,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+882,PID_228A_8_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+883,PID_228A8_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+884,PID_228A_9_codec,PID_228A,codec,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+885,PID_228A_9_pixel,PID_228A,pixel,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+886,PID_228A9_yeti,PID_228A,yeti,A,228,TB,21,0,4,18,1,5,4,1,0,2,1,1,1,1,0,0,1,12,0,None,,0,6,,,,,"RUL lobar consolication, RLL/LUL infiltrate, cavities",YES - 1,1,3,Yes
+887,PID_229A_0_codec,PID_229A,codec,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+888,PID_229A_1_codec,PID_229A,codec,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+889,PID_229A_1_pixel,PID_229A,pixel,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+890,PID_229A_3_pixel,PID_229A,pixel,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+891,PID_229A_4_yeti,PID_229A,yeti,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+892,PID_229A_4_codec,PID_229A,codec,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+893,PID_229A_5_pixel,PID_229A,pixel,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+894,PID_229A_6_pixel,PID_229A,pixel,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+895,PID_229A_7_yeti_0,PID_229A,yeti,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+896,PID_229A_7_codec_0,PID_229A,codec,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+897,PID_229A_8_pixel,PID_229A,pixel,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+898,PID_229A_9_codec,PID_229A,codec,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+899,PID_229A_10_pixel,PID_229A,pixel,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+900,PID_229A_13_codec,PID_229A,codec,A,229,TB,32,0,4,19.7,1,6,4,0,,1,1,0,1,1,0,0,1,8,1,None ,,0,6,,,,,"RUL/RLL/LUL infiltrate, cavity",YES - 1,0,3,Yes
+901,PID_230A_0_codec,PID_230A,codec,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+902,PID_230A0_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+903,PID_230A_1_pixel,PID_230A,pixel,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+904,PID_230A1_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+905,PID_230A_2_pixel,PID_230A,pixel,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+906,PID_230A2_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+907,PID_230A_3_pixel,PID_230A,pixel,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+908,PID_230A_4_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+909,PID_230A_5_pixel,PID_230A,pixel,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+910,PID_230A_6_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+911,PID_230A_6_codec,PID_230A,codec,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+912,PID_230A_13_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+913,PID_230A_13_codec,PID_230A,codec,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+914,PID_230A_14_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+915,PID_230A_15_yeti,PID_230A,yeti,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+916,PID_230A_15_codec,PID_230A,codec,A,230,TB,58,0,1,25.5,,,,0,1,2,1,0,1,0,0,0,0,,0,,Pleural effusion ,2,11,,,,,MISSING,,,,Yes
+917,PID_232A_0_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+918,PID_232A_1_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+919,PID_232A_2_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+920,PID_232A_3_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+921,PID_232A3_yeti,PID_232A,yeti,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+922,PID_232A_4_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+923,PID_232A_4_pixel,PID_232A,pixel,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+924,PID_232A_5_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+925,PID_232A_6_pixel,PID_232A,pixel,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+926,PID_232A_8_pixel,PID_232A,pixel,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+927,PID_232A_9_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+928,PID_232A_9_pixel,PID_232A,pixel,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+929,PID_232A9_yeti,PID_232A,yeti,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+930,PID_232A_10_codec,PID_232A,codec,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+931,PID_232A_10_pixel,PID_232A,pixel,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+932,PID_232A10_yeti,PID_232A,yeti,A,232,TB,28,1,1,25.1,,,,0,0,0,1,0,1,1,1,0,1,4,1,None,,0,6,,,,,MISSING - PS,,,,Yes
+933,PID_234A_0_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+934,PID_234A_0_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+935,PID_234A_1_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+936,PID_234A_1_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+937,PID_234A_2_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+938,PID_234A_2_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+939,PID_234A_3_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+940,PID_234A_3_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+941,PID_234A_4_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+942,PID_234A_4_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+943,PID_234A_5_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+944,PID_234A_5_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+945,PID_234A_6_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+946,PID_234A_6_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+947,PID_234A_7_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+948,PID_234A_7_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+949,PID_234A_8_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+950,PID_234A_8_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+951,PID_234A_9_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+952,PID_234A_9_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+953,PID_234A_11_pixel,PID_234A,pixel,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+954,PID_234A_12_codec,PID_234A,codec,A,234,TB,31,0,3,22.8,1,10,2,1,0,1,1,1,1,1,1,0,1,2,0,None,,0,6,,,,,LUL limited consolidation,NO,1,1,Yes
+955,PID_235A_0_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+956,PID_235A_1_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+957,PID_235A1_yeti,PID_235A,yeti,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+958,PID_235A_2_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+959,PID_235A_2_pixel,PID_235A,pixel,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+960,PID_235A2_yeti,PID_235A,yeti,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+961,PID_235A_3_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+962,PID_235A_3_pixel,PID_235A,pixel,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+963,PID_235A3_yeti,PID_235A,yeti,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+964,PID_235A_6_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+965,PID_235A_6_pixel,PID_235A,pixel,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+966,PID_235A6_yeti,PID_235A,yeti,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+967,PID_235A_7_yeti,PID_235A,yeti,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+968,PID_235A_7_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+969,PID_235A_8_yeti,PID_235A,yeti,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+970,PID_235A_8_codec,PID_235A,codec,A,235,TB,35,0,2,21.2,,,,0,0,1,1,1,0,1,0,1,1,1,0,None,,0,6,,,,,MISSING - PS,,,,Yes
+971,PID_238A_0_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+972,PID_238A_0_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+973,PID_238A_1_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+974,PID_238A_1_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+975,PID_238A_2_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+976,PID_238A_2_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+977,PID_238A_3_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+978,PID_238A_3_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+979,PID_238A_4_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+980,PID_238A_4_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+981,PID_238A_5_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+982,PID_238A_5_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+983,PID_238A_6_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+984,PID_238A_6_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+985,PID_238A_7_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+986,PID_238A_7_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+987,PID_238A_8_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+988,PID_238A_8_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+989,PID_238A_9_pixel,PID_238A,pixel,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+990,PID_238A_9_codec,PID_238A,codec,A,238,TB,26,0,4,19.4,1,5,2,0,0,0,1,0,0,1,0,0,1,2,0,None,,0,6,,,,,RUL limited consolidation,NO,1,1,Yes
+991,PID_73C_0_pixel,PID_73C,pixel,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+992,PID_73C_1_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+993,PID_73C_2_pixel,PID_73C,pixel,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+994,PID_73C_3_pixel,PID_73C,pixel,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+995,PID_73C_4_yeti,PID_73C,yeti,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+996,PID_73C_4_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+997,PID_73C_6_yeti,PID_73C,yeti,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+998,PID_73C_6_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+999,PID_73C_9_pixel,PID_73C,pixel,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1000,PID_73C_10_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1001,PID_73C10_yeti,PID_73C,yeti,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1002,PID_73C_11_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1003,PID_73C_12_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1004,PID_73C_12_pixel,PID_73C,pixel,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1005,PID_73C12_yeti,PID_73C,yeti,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1006,PID_73C_13_codec,PID_73C,codec,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1007,PID_73C13_yeti,PID_73C,yeti,C,73,NTB,39,0,,,,,,,1,0,0,0,0,0,,,0,,0,,,0,0,No,0,,,Normal lung fields,,Normal lung fields,,Yes
+1008,PID_74C_0_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1009,PID_74C_0_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1010,PID_74C_1_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1011,PID_74C_2_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1012,PID_74C_2_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1013,PID_74C_3_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1014,PID_74C_3_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1015,PID_74C_4_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1016,PID_74C_5_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1017,PID_74C_5_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1018,PID_74C_6_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1019,PID_74C_7_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1020,PID_74C_8_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1021,PID_74C8_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1022,PID_74C_10_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1023,PID_74C10_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1024,PID_74C_11_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1025,PID_74C_11_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1026,PID_74C11_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1027,PID_74C_13_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1028,PID_74C13_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1029,PID_74C_14_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1030,PID_74C14_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1031,PID_74C_15_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1032,PID_74C_15_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1033,PID_74C15_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1034,PID_74C_16_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1035,PID_74C_16_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1036,PID_74C16_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1037,PID_74C_17_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1038,PID_74C17_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1039,PID_74C_18_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1040,PID_74C_18_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1041,PID_74C18_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1042,PID_74C_19_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1043,PID_74C_19_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1044,PID_74C19_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1045,PID_74C_20_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1046,PID_74C_20_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1047,PID_74C20_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1048,PID_74C_21_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1049,PID_74C21_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1050,PID_74C_22_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1051,PID_74C22_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1052,PID_74C_23_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1053,PID_74C23_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1054,PID_74C_24_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1055,PID_74C24_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1056,PID_74C_25_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1057,PID_74C_25_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1058,PID_74C25_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1059,PID_74C_26_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1060,PID_74C_26_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1061,PID_74C26_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1062,PID_74C_27_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1063,PID_74C27_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1064,PID_74C_28_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1065,PID_74C_28_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1066,PID_74C28_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1067,PID_74C_29_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1068,PID_74C_29_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1069,PID_74C29_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1070,PID_74C_31_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1071,PID_74C31_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1072,PID_74C_32_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1073,PID_74C_32_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1074,PID_74C32_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1075,PID_74C_33_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1076,PID_74C_33_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1077,PID_74C33_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1078,PID_74C_35_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1079,PID_74C35_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1080,PID_74C_36_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1081,PID_74C36_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1082,PID_74C_37_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1083,PID_74C_37_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1084,PID_74C37_yeti,PID_74C,yeti,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1085,PID_74C_39_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1086,PID_74C_39_pixel,PID_74C,pixel,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1087,PID_74C_40_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1088,PID_74C_41_codec,PID_74C,codec,C,74,NTB,32,0,,,,,,,1,0,0,0,1,0,,,1,20,0,,,2,0,None,0,,1,MISSING,,,,Yes
+1089,PID_76C_0_codec,PID_76C,codec,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1090,PID_76C_1_codec,PID_76C,codec,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1091,PID_76C_2_codec,PID_76C,codec,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1092,PID_76C_3_codec,PID_76C,codec,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1093,PID_76C_6_codec,PID_76C,codec,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1094,PID_76C_7_yeti,PID_76C,yeti,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1095,PID_76C_8_codec,PID_76C,codec,C,76,NTB,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1096,PID_78C_0_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1097,PID_78C_1_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1098,PID_78C_2_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1099,PID_78C_3_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1100,PID_78C_4_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1101,PID_78C_5_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1102,PID_78C5_yeti_0,PID_78C,yeti,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1103,PID_78C_6_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1104,PID_78C_7_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1105,PID_78C7_yeti_0,PID_78C,yeti,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1106,PID_78C_8_codec_0,PID_78C,codec,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1107,PID_78C_8_pixel_0,PID_78C,pixel,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1108,PID_78C8_yeti_0,PID_78C,yeti,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1109,PID_78C_9_pixel_0,PID_78C,pixel,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1110,PID_78C9_yeti_0,PID_78C,yeti,C,78,NTB,47,1,,,,,,,0,0,0,0,0,0,,,1,6,0,,,0,0,,0,1,4,Normal lung fields,,Normal lung fields,,Yes
+1111,PID_80C_0_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1112,PID_80C_1_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1113,PID_80C_2_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1114,PID_80C_3_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1115,PID_80C_4_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1116,PID_80C_5_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1117,PID_80C_6_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1118,PID_80C_7_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1119,PID_80C_8_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1120,PID_80C_9_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1121,PID_80C_10_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1122,PID_80C_11_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1123,PID_80C_12_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1124,PID_80C_14_pixel,PID_80C,pixel,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1125,PID_80C_15_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1126,PID_80C_17_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1127,PID_80C_17_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1128,PID_80C_18_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1129,PID_80C_18_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1130,PID_80C_19_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1131,PID_80C_19_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1132,PID_80C_20_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1133,PID_80C_20_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1134,PID_80C_21_yeti,PID_80C,yeti,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1135,PID_80C_21_codec,PID_80C,codec,C,80,NTB,34,1,,,,,,,,0,0,0,1,1,,,1,2,0,,,0,0,Not told.,0,,,Normal lung fields,,Normal lung fields,,Yes
+1136,PID_82C_0_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1137,PID_82C_0_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1138,PID_82C_1_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1139,PID_82C_1_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1140,PID_82C_2_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1141,PID_82C_2_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1142,PID_82C_3_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1143,PID_82C_3_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1144,PID_82C_4_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1145,PID_82C_4_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1146,PID_82C_5_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1147,PID_82C_5_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1148,PID_82C_6_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1149,PID_82C_6_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1150,PID_82C_7_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1151,PID_82C_7_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1152,PID_82C_8_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1153,PID_82C_8_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1154,PID_82C_9_pixel,PID_82C,pixel,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1155,PID_82C_9_codec,PID_82C,codec,C,82,NTB,25,1,,,,,,,0,1,0,1,1,1,,,1,3,0,,,0,0,,0,3,1,Normal lung fields,,Normal lung fields,,Yes
+1156,PID_199A_now_C_0_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1157,PID_199A_now_C0_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1158,PID_199A_now_C_1_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1159,PID_199A_now_C_1_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1160,PID_199A_now_C1_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1161,PID_199A_now_C_2_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1162,PID_199A_now_C2_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1163,PID_199A_now_C_3_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1164,PID_199A_now_C_3_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1165,PID_199A_now_C3_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1166,PID_199A_now_C_4_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1167,PID_199A_now_C4_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1168,PID_199A_now_C_5_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1169,PID_199A_now_C_5_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1170,PID_199A_now_C_6_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1171,PID_199A_now_C6_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1172,PID_199A_now_C_8_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1173,PID_199A_now_C_8_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1174,PID_199A_now_C8_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1175,PID_199A_now_C_9_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1176,PID_199A_now_C9_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1177,PID_199A_now_C_10_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1178,PID_199A_now_C_10_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1179,PID_199A_now_C10_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1180,PID_199A_now_C_11_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1181,PID_199A_now_C11_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1182,PID_199A_now_C_12_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1183,PID_199A_now_C_12_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1184,PID_199A_now_C12_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1185,PID_199A_now_C_13_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1186,PID_199A_now_C_13_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1187,PID_199A_now_C13_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1188,PID_199A_now_C_14_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1189,PID_199A_now_C_14_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1190,PID_199A_now_C14_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1191,PID_199A_now_C_15_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1192,PID_199A_now_C_15_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1193,PID_199A_now_C15_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1194,PID_199A_now_C_16_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1195,PID_199A_now_C_16_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1196,PID_199A_now_C_17_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1197,PID_199A_now_C_17_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1198,PID_199A_now_C_18_pixel,PID_199A_now_C,pixel,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1199,PID_199A_now_C_19_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1200,PID_199A_now_C_19_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1201,PID_199A_now_C_20_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1202,PID_199A_now_C_22_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1203,PID_199A_now_C_23_yeti,PID_199A_now_C,yeti,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1204,PID_199A_now_C_23_codec,PID_199A_now_C,codec,A,199,NTB,60,1,,,0,,2,0,1,0,0,0,1,0,0,0,1,2,0,,,1,999,,,,,"RLL limited consolidatin, RUL/LLL infiltrate",NO,1,3,Yes
+1205,PID_213A_now_C_0_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1206,PID_213A_now_C0_yeti,PID_213A_now_C,yeti,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1207,PID_213A_now_C_1_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1208,PID_213A_now_C_2_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1209,PID_213A_now_C2_yeti,PID_213A_now_C,yeti,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1210,PID_213A_now_C_3_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1211,PID_213A_now_C_4_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1212,PID_213A_now_C_5_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1213,PID_213A_now_C_6_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1214,PID_213A_now_C_7_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1215,PID_213A_now_C_8_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1216,PID_213A_now_C_9_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1217,PID_213A_now_C_10_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1218,PID_213A_now_C_11_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1219,PID_213A_now_C_12_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1220,PID_213A_now_C12_yeti,PID_213A_now_C,yeti,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1221,PID_213A_now_C_13_pixel,PID_213A_now_C,pixel,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1222,PID_213A_now_C13_yeti,PID_213A_now_C,yeti,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1223,PID_213A_now_C_14_codec,PID_213A_now_C,codec,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
+1224,PID_213A_now_C14_yeti,PID_213A_now_C,yeti,A,213,NTB,,,,,,,,0,,,0,,,,,,,,,,,,,,,,,MISSING,,,,Yes
